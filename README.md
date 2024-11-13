@@ -1,7 +1,7 @@
 <h1>BlackBoxPentrationTest</h1>
 
 <h2>Description</h2>
-The project involved performing a black box penetration test on a Linux-based virtual machine to identify and exploit potential security vulnerabilities. Using Kali Linux and the WMAP Web Scanner, the assessment revealed a directory traversal vulnerability in a web application, which was further exploited to access an internal employee directory. Subsequently, an SQL injection attack was carried out to retrieve sensitive employee information. This project showcases practical expertise in ethical hacking, focusing on vulnerability discovery, exploitation, and documentation.
+This project involved performing a black box penetration test on a Linux-based virtual machine to identify and exploit potential security vulnerabilities. Using Kali Linux and the WMAP Web Scanner, the assessment revealed a directory traversal vulnerability in a web application, which was further exploited to access an internal employee directory. Subsequently, an SQL injection attack was carried out to retrieve sensitive employee information. This project showcases practical expertise in ethical hacking, focusing on vulnerability discovery, exploitation, and documentation.
 <br />
 
 
